@@ -1,0 +1,42 @@
+[
+    {
+        "identifier": "Worksite A",
+        "days": {
+            "0": "Das ist eine Nachricht.",
+            "1": "test"
+        },
+        "text": "The upcoming weather conditions will slightly impact the construction site. The main concern is high humidity levels, averaging above 70% throughout the week, which might affect the curing process of cement and increase the risk of mold growth. Additionally, moderate rainfall is expected on 2nd December which might cause work stoppages and make the site muddy. However, the average wind speed is low to moderate, so wind-related risks are minimal. The temperature is low but not freezing, so it shouldn't negatively affect construction materials. Overall risk due to weather: 3/10."
+    },
+    {
+        "identifier": "Worksite B",
+        "days": {
+            "0": "Das ist eine Nachricht.",
+            "1": "test"
+        },
+        "text": "The weather conditions over the next five days are relatively mild and stable, with clear skies for the first three days and increasing cloud cover thereafter. The temperatures are consistently low, ranging from 4.1\u00b0C to 7.7\u00b0C, which could slow down the curing process of concrete and other materials. The humidity is relatively high, which may also affect some construction processes. However, the wind speed is minimal, so there's a low risk of wind-related incidents. Overall, the weather-related risk for the construction site can be rated as 3 out of 10. Precautions should be taken to protect materials and processes from cold and moisture."
+    },
+    {
+        "identifier": "Worksite C",
+        "days": {
+            "0": "Das ist eine Nachricht.",
+            "1": "test"
+        },
+        "text": "The weather forecast for the construction site shows generally clear skies with moderate temperatures, with the exception of the last three days which will be cloudy. Humidity levels are fairly high throughout the week, which could potentially slow down the drying process for any cement work. Wind speeds are also increasing within the week, peaking at 15.0 m/s on the last day. This could pose a risk for any high-rise work or crane operations due to safety concerns. Therefore, workers should secure loose materials to prevent them from blowing away. Overall, considering the potential effect on cement work and high-rise operations, the risk level due to weather could be rated as 6 out of 10."
+    },
+    {
+        "identifier": "Worksite D",
+        "days": {
+            "0": "Das ist eine Nachricht.",
+            "1": "test"
+        },
+        "text": "The weather forecast indicates consistent cloud cover, with temperatures ranging from 6.3\u00b0C to 11.7\u00b0C and humidity levels between 73.0% and 87.4%. Given these conditions, there could be challenges with cement curing, as these conditions can prolong the process. The wind speed, reaching up to 5.7 m/s, could also pose a risk to lightweight materials and structures. It's advisable to secure all materials and structures and schedule cement-related work on warmer, less humid days. Overall risk due to weather: 4/10."
+    },
+    {
+        "identifier": "Dornbirn",
+        "days": {
+            "0": "Das ist eine Nachricht.",
+            "1": "test"
+        },
+        "text": "The weather forecast predicts overcast conditions and cool temperatures for the next five days, with some increase in temperature on 2024-11-30 and 2024-12-01. The humidity levels are also relatively high, reaching up to 87.4%. \n\nBased on these conditions, there may be a delay in concrete curing due to the cool temperatures and high humidity. This may affect the structural integrity of the construction if not properly managed. Moreover, the high wind speeds, particularly on 2024-12-04, might pose a risk to lightweight materials and scaffolding stability.\n\nOverall, considering the possibility of work delay due to concrete curing issues, and potential safety risks due to high wind speeds, I would rate the overall risk due to weather as 6 out of 10. Necessary precautions should be taken, particularly on days with high winds."
+    }
+]

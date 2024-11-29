@@ -1,0 +1,42 @@
+[
+    {
+        "identifier": "Worksite A",
+        "location": {
+                "latitude": 42.103751,
+                "longitude": -4.914405
+            },
+        "description": "A large solar energy project located in New York."
+    },
+    {
+        "identifier": "Worksite B",
+        "location": {
+                "latitude": -26.668669, 
+                "longitude": -66.124828
+            },
+        "description": "An innovative wind energy farm near Paris."
+    },
+    {
+        "identifier": "Worksite C",
+        "location": {
+                "latitude": 53.142545,
+                "longitude": -123.077141
+            },
+        "description": "A major hydroelectric dam powering much of California."
+    },
+    {
+        "identifier": "Worksite D",
+        "location": {
+                "latitude": 51.1657,
+                "longitude": 10.4515
+            },
+        "description": "A cutting-edge research lab located in central Germany."
+    },
+    {
+        "identifier": "Dornbirn",
+        "location": {
+                "latitude": 47.417132,
+                "longitude": 9.778444
+            },
+        "description": "A scenic city known for its vibrant community in Austria."
+    }
+]
