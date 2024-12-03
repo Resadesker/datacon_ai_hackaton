@@ -1,7 +1,7 @@
 # Construction Site risk estimation by weather forecast
 Provides an overview of current weather-related risks on the construction site via an LLM (RAG), colors worksites at risk by weeks and days green, yellow or red accordingly based on pre-defined risk values.
 
-Created for the DataCon.AI hackathon in 24 hours.
+Created for the DataCon.AI hackathon in 23 hours.
 ![](/preview.png)
 ![](/image.png)
 
@@ -22,6 +22,8 @@ Replace OpenWeatherMap and OpenAI API key in `api/api.py`
 Launch
 
 ```
-python api/api.py
-python app/main.py
+cd api/
+python api.py
+cd ../app
+streamlit run main.py
 ```
